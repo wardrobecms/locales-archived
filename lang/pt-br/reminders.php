@@ -17,6 +17,6 @@ return array(
 
 	"user"     => "Nós não encontramos um usuário com este endereço e-mail.",
 
-	"token"    => "Este chave de troca de senha é inválida.",
+	"token"    => "Esta chave de troca de senha é inválida.",
 
 );
