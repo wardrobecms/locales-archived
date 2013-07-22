@@ -13,10 +13,10 @@ return array(
 	|
 	*/
 
-	"password" => "Passw&ouml;rter müssen sechs Zeichen lang sein und die Voraussetzungen erf&uuml;llen.",
+	"password" => "Passwörter müssen sechs Zeichen lang sein und die Voraussetzungen erfüllen.",
 
-	"user"     => "Wir k&ouml;nnen keinen Nutzzer mit dieser E-Mail Adresse finden",
+	"user"     => "Wir können keinen Nutzzer mit dieser E-Mail Adresse finden",
 
-	"token"    => "Dieser Token zum Zur&uuml;cksetzen des Passwortes ist ung&uuml;ltig",
+	"token"    => "Dieser Token zum Zurücksetzen des Passwortes ist ungültig",
 
 );
