@@ -14,11 +14,11 @@ return array(
 	*/
 
 	"accepted"         => "Il campo :attribute deve essere accettato.",
-	"active_url"       => "Il campo :attribute non &egrave; un URL valido.",
+	"active_url"       => "Il campo :attribute non è un URL valido.",
 	"after"            => "Il campo :attribute deve essere una data successiva a :date.",
-	"alpha"            => "Il campo :attribute pu&ograve; contenere solo lettere.",
-	"alpha_dash"       => "Il campo :attribute pu&ograve; contenere solo lettere, numeri e trattini.",
-	"alpha_num"        => "Il campo :attribute pu&ograve; contenere solo lettere e numeri.",
+	"alpha"            => "Il campo :attribute può contenere solo lettere.",
+	"alpha_dash"       => "Il campo :attribute può contenere solo lettere, numeri e trattini.",
+	"alpha_num"        => "Il campo :attribute può contenere solo lettere e numeri.",
 	"before"           => "Il campo :attribute deve essere una data precedente a :date.",
 	"between"          => array(
 		"numeric" => "Il valore di :attribute deve essere compreso tra :min - :max.",
@@ -31,10 +31,10 @@ return array(
 	"different"        => "Il campo :attribute e :other non possono essere uguali.",
 	"digits"           => "Il campo :attribute deve contenere :digits cifre.",
 	"digits_between"   => "Il campo :attribute deve essere tra :min e :max cifre.",
-	"email"            => "Il formato del campo :attribute non &egrave; valido.",
-	"exists"           => "Il :attribute selezionato non &egrave; valido.",
+	"email"            => "Il formato del campo :attribute non è valido.",
+	"exists"           => "Il :attribute selezionato non è valido.",
 	"image"            => "Il campo :attribute deve essere una immagine.",
-	"in"               => "Il :attribute selezionato non &egrave; valido.",
+	"in"               => "Il :attribute selezionato non è valido.",
 	"integer"          => "Il campo :attribute deve essere un intero.",
 	"ip"               => "Il campo :attribute deve contenere un indirizzo IP valido.",
 	"max"              => array(
@@ -48,21 +48,21 @@ return array(
     	"file"    => "Il file :attribute deve avere una dimensione minima di :min kilobytes.",
     	"string"  => "Il campo :attribute deve avere una lunghezza minima di :min caratteri.",
 	),
-	"not_in"       	   => "Il campo :attribute selezionato non &egrave; valido.",
+	"not_in"       	   => "Il campo :attribute selezionato non è valido.",
     "numeric"          => "Il campo :attribute deve essere un numero.",
 	"regex"            => "Il campo :attribute ha un formato non valido.",
-	"required"         => "Il campo :attribute &egrave; obbligatorio.",
-	"required_if"      => "Il campo :attribute &egrave; richiesto quando :other &egrave; :value.",
-	"required_with"    => "Il campo :attribute &egrave; richiesto quando :values &egrave; presente.",
-	"required_without" => "Il campo :attribute &egrave; richiesto quando :values non &egrave; presente.",
+	"required"         => "Il campo :attribute è obbligatorio.",
+	"required_if"      => "Il campo :attribute è richiesto quando :other è :value.",
+	"required_with"    => "Il campo :attribute è richiesto quando :values è presente.",
+	"required_without" => "Il campo :attribute è richiesto quando :values non è presente.",
 	"same"             => "Il campo :attribute e il campo :other devono corrispondere.",
 	"size"             => array(
 		"numeric" => "Il campo :attribute deve essere :size.",
 	   	"file"    => "Il campo :attribute deve essere :size kilobytes.",
   		"string"  => "Il campo :attribute deve essere :size caratteri.",
 	),
-	"unique"         => "Il campo :attribute &egrave; gi&agrave; stato utilizzato.",
-	"url"            => "Il formato del campo :attribute non &egrave; valido.",
+	"unique"         => "Il campo :attribute è già stato utilizzato.",
+	"url"            => "Il formato del campo :attribute non è valido.",
 
 	/*
 	|--------------------------------------------------------------------------

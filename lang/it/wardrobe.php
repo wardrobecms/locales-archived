@@ -11,13 +11,13 @@ return array(
 
   // Missing
   //  'archives' => 'Archivio', 
-  //  '404' => 'Spiacente ma questa pagina non &egrave; stata trovata',
+  //  '404' => 'Spiacente ma questa pagina non è stata trovata',
 
   // Posts
   'post_title' => 'Titolo',
   'post_slug' => 'URI Slug',
   'post_author' => 'Autore',
-  'post_content' => 'Il contenuto v&agrave; qui...',
+  'post_content' => 'Il contenuto và qui...',
   'post_tags' => 'Tag',
   'post_scheduled' => 'Pianificati',
   'post_publish_date' => 'Data di Pubblicazione',
@@ -58,7 +58,7 @@ return array(
   'login_password' => 'Password',
   'login_remember' => 'Ricordati di me',
   'login_sign_in' => 'Entra',
-  'login_incorrect' => 'La mail o la password non &egrave; corretta',
+  'login_incorrect' => 'La mail o la password non è corretta',
   'login_forgot' => 'Password dimenticata?',
 
   // Forgot Password
@@ -70,5 +70,5 @@ return array(
 
   // Errors
   'error' => 'Errore!',
-  'error_fivehundred' => 'Si &egrave; verificato un errore del server'
+  'error_fivehundred' => 'Si è verificato un errore del server'
 );
