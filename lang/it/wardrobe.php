@@ -4,14 +4,11 @@ return array(
 
   // Header
   'write' => 'Scrivi',
-  'posts' => 'Articoli', // not defined
+  'posts' => 'Articoli', 
   'accounts' => 'Account utente',
   'logout' => 'Esci',
   'login' => 'Login',
 
-  // Missing
-  //  'archives' => 'Archivio', 
-  //  '404' => 'Spiacente ma questa pagina non è stata trovata',
 
   // Posts
   'post_title' => 'Titolo',
@@ -22,9 +19,9 @@ return array(
   'post_scheduled' => 'Pianificati',
   'post_publish_date' => 'Data di Pubblicazione',
   'post_publish_date_set' => 'Impostata',
-  'post_publish' => 'Pubblica Articolo', // not defined
+  'post_publish' => 'Pubblica Articolo', 
   'post_save' => 'Salva Articolo',
-  'post_preview' => 'Anteprima', // not defined
+  'post_preview' => 'Anteprima', 
   'post_expand' => 'Espandi per le opzioni',
   'post_success' => 'Successo!',
   'post_saved' => 'Articolo salvato con successo',
