@@ -13,10 +13,10 @@ return array(
 	|
 	*/
 
-	"password" => "Su contraseña debe usar seis caracteres y coincidir con la confirma.",
+	"password" => "Su contraseña debe contener seis caracteres y coincidir con la confirmación.",
 
-	"user"     => "No podamos encontrar una cuenta con ese dirección de correo electronico.",
+	"user"     => "No podemos encontrar un usuario con esta dirección de email.",
 
-	"token"    => "Este llave de contraseña no es válido.",
+	"token"    => "La clave para renovar la password no es correcta.",
 
 );
