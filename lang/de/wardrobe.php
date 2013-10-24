@@ -40,7 +40,7 @@ return array(
   'account_email' => 'E-Mail',
   'account_password' => 'Passwort',
   'account_password_confirm' => 'Passwort bestätigen',
-  'account_password_keep' => 'Dieses Feld frei lassen um das Passwort nicht zu ändern',
+  'account_password_keep' => 'Dieses Feld frei lassen, um das Passwort nicht zu ändern',
   'account_add' => 'Account hinzufügen',
   'account_save' => 'Account speichern',
   'account_add_new' => 'Neuen Account hinzufügen',
@@ -49,9 +49,9 @@ return array(
   'account_delete_confirm' => 'Bist du dir sicher ##first_name## ##last_name## zu löschen?',
 
   // Login
-  'login_email' => 'E-Mmail',
+  'login_email' => 'E-Mail',
   'login_password' => 'Passwort',
-  'login_remember' => 'Erinnere dich an mich',
+  'login_remember' => 'Angemeldet bleiben',
   'login_sign_in' => 'Einloggen',
   'login_incorrect' => 'Deine E-Mail oder dein Passwort ist falsch',
   'login_forgot' => 'Passwort vergessen?',
